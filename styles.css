@@ -1,0 +1,33 @@
+
+/* style for movie list */
+.movieList li
+{
+ padding: 10px;
+ font-size:25px;
+ margin-left: 50px;
+ text-decoration: none;
+}
+
+/* style for cousrse names */
+.list li
+{
+ padding: 10px;
+ font-size:25px;
+ margin-left: 50px;
+}
+
+/* style for cousrse days */
+.listStyle li
+{
+ padding: 10px;
+ font-size:25px;
+ margin-left: 50px;
+}
+
+/* hover style cousrse names */
+.listStyle li:hover 
+{
+ color:mediumvioletred;
+}
+
+
